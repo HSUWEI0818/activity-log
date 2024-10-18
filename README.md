@@ -18,16 +18,106 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/8a6e70fcf747a21b2f01ba482ef0e56e3a891963)
+2. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/3a217492b5251a613d8468555dfdd5d00a4e2a70)
+3. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/5861e2d1bc75d9ba74f9c2efbdc6e9d3489ddd79)
+4. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/05510bf1e731d38316bc9007a6cd73f8109551dd)
+5. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/fa2ac59507107951bfed8fba0dff9dfe7107ba32)
+6. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+7. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/ded6ffc1bcbee0b3313dbb88f5539cc89915bf3d)
+8. 🔀 Merged [PR #6](https://github.com/HSUWEI0818/homework10-4/pull/6) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+9. 📥 Opened [PR #6](https://github.com/HSUWEI0818/homework10-4/pull/6) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+10. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/ded6ffc1bcbee0b3313dbb88f5539cc89915bf3d)
+11. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e45ac76c209ca904161c063afeb7329006739815)
+12. ❌ Closed an issue [#4](https://github.com/HSUWEI0818/homework10-4/issues/4) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+13. 🔀 Merged [PR #5](https://github.com/HSUWEI0818/homework10-4/pull/5) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+14. 📥 Opened [PR #5](https://github.com/HSUWEI0818/homework10-4/pull/5) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+15. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/1c9e29acfdae288e4b51530a07f9ff1ec183f1f2)
+16. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/7c3beb63c62f877a473a5e33f9e0b48e23b30ef9)
+17. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e8e1ff317a0cb37054dc27c8d7f0da7545f8647b)
+18. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e45ac76c209ca904161c063afeb7329006739815)
+19. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/b79a48db8ecb5a9d24bcd93b6aea42ba29f04cea)
+20. ➕ Created a new branch [`4-githubreadme`](https://github.com/HSUWEI0818/homework10-4/tree/4-githubreadme) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+21. 🆕 Opened an issue [#4](https://github.com/HSUWEI0818/homework10-4/issues/4) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+22. 🆕 Opened an issue [#3](https://github.com/HSUWEI0818/homework10-4/issues/3) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+23. 🆕 Opened an issue [#2](https://github.com/HSUWEI0818/homework10-4/issues/2) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+24. 🆕 Opened an issue [#1](https://github.com/HSUWEI0818/homework10-4/issues/1) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+25. ➕ Created a new branch [`main`](https://github.com/HSUWEI0818/homework10-4/tree/main) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+26. 🎉 Created a new repository [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+27. 🆕 Opened an issue in a private repo
+28. 🆕 Opened an issue in a private repo
+29. 🆕 Opened an issue in a private repo
+30. 🆕 Opened an issue in a private repo
+31. ➕ Created a new branch `SCRUM-1` in a private repo
+32. ➕ Created a new branch `main` in a private repo
+33. 🎉 Created a new private repository
+34. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/8a6e70fcf747a21b2f01ba482ef0e56e3a891963)
+35. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/3a217492b5251a613d8468555dfdd5d00a4e2a70)
+36. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/5861e2d1bc75d9ba74f9c2efbdc6e9d3489ddd79)
+37. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/05510bf1e731d38316bc9007a6cd73f8109551dd)
+38. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/fa2ac59507107951bfed8fba0dff9dfe7107ba32)
+39. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+40. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/ded6ffc1bcbee0b3313dbb88f5539cc89915bf3d)
+41. 🔀 Merged [PR #6](https://github.com/HSUWEI0818/homework10-4/pull/6) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+42. 📥 Opened [PR #6](https://github.com/HSUWEI0818/homework10-4/pull/6) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+43. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/ded6ffc1bcbee0b3313dbb88f5539cc89915bf3d)
+44. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e45ac76c209ca904161c063afeb7329006739815)
+45. ❌ Closed an issue [#4](https://github.com/HSUWEI0818/homework10-4/issues/4) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+46. 🔀 Merged [PR #5](https://github.com/HSUWEI0818/homework10-4/pull/5) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+47. 📥 Opened [PR #5](https://github.com/HSUWEI0818/homework10-4/pull/5) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+48. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/1c9e29acfdae288e4b51530a07f9ff1ec183f1f2)
+49. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/7c3beb63c62f877a473a5e33f9e0b48e23b30ef9)
+50. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e8e1ff317a0cb37054dc27c8d7f0da7545f8647b)
+51. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e45ac76c209ca904161c063afeb7329006739815)
+52. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/b79a48db8ecb5a9d24bcd93b6aea42ba29f04cea)
+53. ➕ Created a new branch [`4-githubreadme`](https://github.com/HSUWEI0818/homework10-4/tree/4-githubreadme) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+54. 🆕 Opened an issue [#4](https://github.com/HSUWEI0818/homework10-4/issues/4) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+55. 🆕 Opened an issue [#3](https://github.com/HSUWEI0818/homework10-4/issues/3) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+56. 🆕 Opened an issue [#2](https://github.com/HSUWEI0818/homework10-4/issues/2) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+57. 🆕 Opened an issue [#1](https://github.com/HSUWEI0818/homework10-4/issues/1) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+58. ➕ Created a new branch [`main`](https://github.com/HSUWEI0818/homework10-4/tree/main) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+59. 🎉 Created a new repository [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+60. 🆕 Opened an issue in a private repo
+61. 🆕 Opened an issue in a private repo
+62. 🆕 Opened an issue in a private repo
+63. 🆕 Opened an issue in a private repo
+64. ➕ Created a new branch `SCRUM-1` in a private repo
+65. ➕ Created a new branch `main` in a private repo
+66. 🎉 Created a new private repository
+67. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/8a6e70fcf747a21b2f01ba482ef0e56e3a891963)
+68. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/3a217492b5251a613d8468555dfdd5d00a4e2a70)
+69. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/5861e2d1bc75d9ba74f9c2efbdc6e9d3489ddd79)
+70. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/05510bf1e731d38316bc9007a6cd73f8109551dd)
+71. 📝 Committed to [HSUWEI0818/activity-log](https://github.com/HSUWEI0818/activity-log/commit/fa2ac59507107951bfed8fba0dff9dfe7107ba32)
+72. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+73. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/ded6ffc1bcbee0b3313dbb88f5539cc89915bf3d)
+74. 🔀 Merged [PR #6](https://github.com/HSUWEI0818/homework10-4/pull/6) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+75. 📥 Opened [PR #6](https://github.com/HSUWEI0818/homework10-4/pull/6) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+76. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/ded6ffc1bcbee0b3313dbb88f5539cc89915bf3d)
+77. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e45ac76c209ca904161c063afeb7329006739815)
+78. ❌ Closed an issue [#4](https://github.com/HSUWEI0818/homework10-4/issues/4) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+79. 🔀 Merged [PR #5](https://github.com/HSUWEI0818/homework10-4/pull/5) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+80. 📥 Opened [PR #5](https://github.com/HSUWEI0818/homework10-4/pull/5) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+81. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/1c9e29acfdae288e4b51530a07f9ff1ec183f1f2)
+82. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/7c3beb63c62f877a473a5e33f9e0b48e23b30ef9)
+83. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e8e1ff317a0cb37054dc27c8d7f0da7545f8647b)
+84. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/e45ac76c209ca904161c063afeb7329006739815)
+85. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/b79a48db8ecb5a9d24bcd93b6aea42ba29f04cea)
+86. ➕ Created a new branch [`4-githubreadme`](https://github.com/HSUWEI0818/homework10-4/tree/4-githubreadme) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+87. 🆕 Opened an issue [#4](https://github.com/HSUWEI0818/homework10-4/issues/4) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+88. 🆕 Opened an issue [#3](https://github.com/HSUWEI0818/homework10-4/issues/3) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+89. 🆕 Opened an issue [#2](https://github.com/HSUWEI0818/homework10-4/issues/2) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+90. 🆕 Opened an issue [#1](https://github.com/HSUWEI0818/homework10-4/issues/1) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+91. ➕ Created a new branch [`main`](https://github.com/HSUWEI0818/homework10-4/tree/main) in [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+92. 🎉 Created a new repository [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4)
+93. 🆕 Opened an issue in a private repo
+94. 🆕 Opened an issue in a private repo
+95. 🆕 Opened an issue in a private repo
+96. 🆕 Opened an issue in a private repo
+97. ➕ Created a new branch `SCRUM-1` in a private repo
+98. ➕ Created a new branch `main` in a private repo
+99. 🎉 Created a new private repository
+100. 📝 Committed to [HSUWEI0818/homework10-4](https://github.com/HSUWEI0818/homework10-4/commit/8a6e70fcf747a21b2f01ba482ef0e56e3a891963)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
